@@ -20,6 +20,8 @@ Coreの一番上にAudioのモジュールがあるはずだ。これを今度�
 黒い窓の中に黄色い文字で(No device)と書かれた場所があるのでここをクリックする。<br>
 するとメニューが開くので、お使いのパソコンのサウンドデバイスを選択しよう。もちろんボリュームノブの確認を忘れずに！！<br>
 
+![img1](https://github.com/frontierOfCuriosityLab/My-memorandom-of-VCV-Rack/blob/master/1_Hello_VCVRack/1_Hello_VCVRack.png)
+
 ## いよいよ音出し
 VCO-1の右下に黒い枠で囲まれたSINをクリックしたままマウスをドラッグするとケーブルが伸びる。<br>
 これはパッチケーブルといって電気の通り道だ。<br>
